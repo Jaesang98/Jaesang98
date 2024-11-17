@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/Jaesang98/Jaesang98/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <h1>안녕하세요, 반갑습니다! 👋</h1>
+  <p>저는 프론트엔드 개발자 남재상입니다.</p>
 </div>
 
 <!--내용 부분-->
