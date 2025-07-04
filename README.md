@@ -35,8 +35,6 @@
 
 <br/>
 
----
-
 ### 📫 Contact
 <a href="mailto:skawotkd12@naver.com">
   <img src="https://img.shields.io/badge/skawotkd12@naver.com-03C75B?style=flat-square&logo=gmail&logoColor=white"/>
