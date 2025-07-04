@@ -1,51 +1,45 @@
-<!--타이틀 부분-->
 <div align="center">
-  <h1>안녕하세요, 반갑습니다! 👋</h1>
-</div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
-</div>
+# 👋 안녕하세요, 개발자 남재상입니다!
 
-<div align="center">
-  <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/emotion-DB7093.svg?style=for-the-badge&logo=emotion&logoColor=white" />&nbsp
-</div>
+✨ 다양한 기술을 배우고,  
+⚡ 빠르게 실무에 적용하는 걸 좋아합니다.  
+<br/>
 
-<br>
+### 🚀 Tech Stack
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-</div>
+<br/>
 
-<br>
+### 📚 Studying
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/subversion-809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/eclipse-2C3E50.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
-</div>
+<br/>
 
+### 🛠 Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/VSCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=22ABF3"/>
+<img src="https://img.shields.io/badge/Eclipse-2C3E50?style=flat-square&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 
-<br>
+<br/>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:skawotkd12@naver.com">
-    <img src="https://img.shields.io/badge/skawotkd12@naver.com-03C75B?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+---
+
+### 📫 Contact
+<a href="mailto:skawotkd12@naver.com">
+  <img src="https://img.shields.io/badge/skawotkd12@naver.com-03C75B?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
